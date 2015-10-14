@@ -1,0 +1,7 @@
+buses
+trains
+bikes
+scooters
+planes
+ships
+
