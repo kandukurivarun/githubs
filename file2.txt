@@ -1,0 +1,9 @@
+papers
+pens
+scale
+eraser
+pad
+pencil
+pins
+stapler
+compass
